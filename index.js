@@ -2,6 +2,6 @@
 let companyName = 'Scuber';
 expect(function () { Scuber = 'specialCompany' }).to.throw(TypeError);
 
-let mostProfitableNeighborhood = ''
+let mostProfitableNeighborhood = 'Chelsea';
 
 expect(companyCeo).to.equal('Susan Smith');
