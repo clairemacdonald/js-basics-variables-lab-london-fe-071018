@@ -2,4 +2,4 @@
 let companyName = 'Scuber';
 expect(function () { Scuber = 'specialCompany' }).to.throw(TypeError);
 
-let 
+let companyCeo = "Susan Smith";
