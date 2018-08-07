@@ -2,4 +2,6 @@
 let companyName = 'Scuber';
 expect(function () { Scuber = 'specialCompany' }).to.throw(TypeError);
 
+
+
 expect(companyCeo).to.equal('Susan Smith');
