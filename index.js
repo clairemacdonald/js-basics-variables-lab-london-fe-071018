@@ -2,6 +2,6 @@
 //let companyName = 'Scuber';
 const companyName = 'Scuber';
 
-const mostProfitableNeighborhood = 'Chelsea';
+let mostProfitableNeighborhood = 'Chelsea';
 
 expect(companyCeo).to.equal('Susan Smith');
